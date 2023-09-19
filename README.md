@@ -2,12 +2,10 @@
 coding is cool
 
 
-## Social:
+## Contacts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ray72271) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-ray-0b6658222) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ray7227&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ray7227&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ray7227&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
